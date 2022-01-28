@@ -15,5 +15,3 @@ elif (idade <= 25):
     print('Categora SÊNIOR')
 else:
     print('Categoria MASTER')
-    
-#Edição de Teste
